@@ -3,7 +3,7 @@
 Project Owners: <br>
 [Jeremy Siburian](https://www.linkedin.com/in/jeremy-siburian/), [Addo Bari Alyfathin](https://www.linkedin.com/in/addobari/), Sabir Malik
 
-Last Update: **September 29, 2023**
+Last Update: **October 10, 2023**
 
 ## Table of Contents
 
